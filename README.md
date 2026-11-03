@@ -8,6 +8,10 @@ An embeddable AI "website character": one `<script>` tag puts a friendly assista
 <script src="https://YOUR-HOST/widget/widget.js" data-site="SITE_ID" data-name="Max" async></script>
 ```
 
+## Background
+
+I designed and built the production version of this at New Paltz Marketing: **Max**, an animated, speaking AI website assistant, later productized as **MascotDesk**, a white-label platform deployed across client sites. That code belongs to my employer, so this repository is a clean-room rewrite I wrote from scratch to show the same architecture and decisions publicly. No employer or client code, prompts or data are included.
+
 ## How it works
 
 ```
